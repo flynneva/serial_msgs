@@ -1,0 +1,7 @@
+string port
+uint16 baudrate
+string flow_control
+string parity
+string stop_bits
+---
+bool connection_establish
